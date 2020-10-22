@@ -1,2 +1,2 @@
-This app doesn't have any function
 # android-hello-world
+This is just a starter :D
