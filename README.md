@@ -1,2 +1,2 @@
 # android-hello-world
-This is just a starter :D
+This is just a starter.  :D
